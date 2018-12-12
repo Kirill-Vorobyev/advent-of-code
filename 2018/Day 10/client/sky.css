@@ -1,0 +1,16 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    background: rgb(28, 32, 68)
+}
+
+#sandbox{
+
+}
+
+#sky{
+    content: '';
+    display: block;
+    position: absolute;
+    transform: rotate(90);
+}
